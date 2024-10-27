@@ -2,7 +2,7 @@
 This is the documentation of my Data Analysis Bootcamp Project2, with @INCUBATOR HUB
 
 ## Project Title
-Sales Performance Analysis 
+Customer Subscription Service Segmentation 
  
 [Project Overview](#project-overview)
 
@@ -21,11 +21,14 @@ Sales Performance Analysis
 
 ### Project Overview
 ---
-In this project, I am tasked with analysing sales performance of a retail store. it involves exploring sales data to uncover key insights, such as top-selling products, regional performance, and monthly sales trends. The goal is to produce an interactive Power BI dashboard that highlights these findings. 
+Customer Segmentation for a Subscription Service: This project involves analyzing customer data for a subscription service to identify
+segments and trends. The goal is to understand customer behavior, track subscription types,
+and identify key trends in cancellations and renewals. The final deliverable is a Power BI
+dashboard that presents this analysis. 
 
 ### Data Source
 ---
-The data used is Lita_Capsule_Dataset (SalesData), which was shared by Ladies In Tech Africa (LITA) through LMS, to be downloaded by her enrolled Data Analysis Students for the Lita_Capsule_Project.
+The data used is Lita_Capsule_Dataset (CustomerData), which was shared by Ladies In Tech Africa (LITA) through LMS, to be downloaded by her enrolled Data Analysis Students for the Lita_Capsule_Project.
 
 ### Tools Used
 ---
@@ -46,20 +49,27 @@ The data used is Lita_Capsule_Dataset (SalesData), which was shared by Ladies In
 ---
 ................................
 1. Data loading and Inspection
-2. Verifying blank cells
+2. Verifying blank cells and Data Consistency
 3. Data Cleaning and Formatting
 
 ### Exploratory Data Analysis
 ---
 .....................................
--What is the total sales by:
-   1. Product
-   2. Region and
-   3. Month
--Calculate Metrics such as:
-   1. Average sales per product
-   2. Total revenue by region
-      using Excel formulas
+_Excel_
+-Find subscription patterns
+-What is the average subscription duration 
+-Identify most popular subscription types
+
+_SQL_
+-Retrieve the total number of customers from each region.
+-Find the most popular subscription type by the number of customers.
+-Find customers who canceled their subscription within 6 months.
+-Calculate the average subscription duration for all customers.
+-Find customers with subscriptions longer than 12 months.
+-Calculate total revenue by subscription type.
+-Find the top 3 regions by subscription cancellations.
+-Find the total number of active and canceled subscriptions.
+
 
 ### Data Analysis
 ---
