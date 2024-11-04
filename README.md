@@ -32,7 +32,7 @@ The data used is Lita_Capsule_Dataset (CustomerData), which was shared by Ladies
 
 ### Tools Used
 ---
-- Microsoft Excel [Download Here]() 
+- Microsoft Excel 
   1. For Data Cleaning
   2. For Analysis
   3. For Visualization
