@@ -1,4 +1,4 @@
-# LITA_CAPSULE_PROJECT2
+# LITA_CAPSTONE_PROJECT2
 This is the documentation of my Data Analysis Bootcamp Project2, with @INCUBATOR HUB
 
 ## Project Title
@@ -28,7 +28,7 @@ dashboard that presents this analysis.
 
 ### Data Source
 ---
-The data used is Lita_Capsule_Dataset (CustomerData), which was shared by Ladies In Tech Africa (LITA) through LMS, to be downloaded by her enrolled Data Analysis Students for the Lita_Capsule_Project.
+The data used is Lita_Capstone_Dataset (CustomerData), which was shared by Ladies In Tech Africa (LITA) through LMS, to be downloaded by her enrolled Data Analysis Students for the Lita_Capstone_Project.
 
 ### Tools Used
 ---
