@@ -47,18 +47,16 @@ The data used is Lita_Capsule_Dataset (CustomerData), which was shared by Ladies
 
 ### Data Cleaning and Preparations
 ---
-................................
 1. Data loading and Inspection
 2. Verifying blank cells and Data Consistency
 3. Data Cleaning and Formatting
 
 ### Exploratory Data Analysis
 ---
-.....................................
 _Excel_
--Find subscription patterns
--What is the average subscription duration 
--Identify most popular subscription types
+- Find subscription patterns
+- What is the average subscription duration 
+- Identify most popular subscription types
 
 
 ### Data Analysis
@@ -127,7 +125,11 @@ ORDER BY 2 DESC
 
 ### Data Visualization
 
-![image](https://github.com/user-attachments/assets/584af865-4562-47e5-8107-3d69849cf09d)
+![Screenshot 2024-11-04 140033](https://github.com/user-attachments/assets/bc64564d-28c8-40d9-98e5-953f829e253d)
 
+![Screenshot 2024-11-04 141822](https://github.com/user-attachments/assets/0240e8a5-72b0-4ff8-90c4-750d6d202f8e)
 
+![Screenshot 2024-11-04 141931](https://github.com/user-attachments/assets/372eba41-f15b-4f64-a1e9-6068fba79e9f)
+
+![Screenshot 2024-11-04 142550](https://github.com/user-attachments/assets/35a99df3-e86a-4d2d-bc75-9b4549a10587)
 
