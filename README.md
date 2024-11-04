@@ -63,7 +63,15 @@ _Excel_
 
 ### Data Analysis
 ---
-..........code
+
+![Screenshot 2024-11-04 142307](https://github.com/user-attachments/assets/d5957d11-5c35-4040-90f2-b513702c938a)
+
+![Screenshot 2024-11-04 140007](https://github.com/user-attachments/assets/6d35b1b8-4b00-4c7f-a256-75eb11fb8dfb)
+
+![Screenshot 2024-11-04 141906](https://github.com/user-attachments/assets/ec17f651-af49-494d-af44-8dc0d6ed350e)
+
+![Screenshot 2024-11-04 142206](https://github.com/user-attachments/assets/8d0761c5-7708-4622-9805-870403f13cf1)
+
 
 ```SQL
 CREATE DATABASE LitaProject2
@@ -116,11 +124,10 @@ FROM [dbo].[ProjectCustomerData]
 GROUP BY Canceled
 ORDER BY 2 DESC
 ```
+
 ### Data Visualization
 
+![image](https://github.com/user-attachments/assets/584af865-4562-47e5-8107-3d69849cf09d)
 
 
-|Heading1|Heading2|Heading3|
-|--------|--------|--------|
-|Table1|Table2|Table3|
 
