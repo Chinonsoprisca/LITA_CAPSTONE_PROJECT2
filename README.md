@@ -133,10 +133,10 @@ ORDER BY 2 DESC
 ![Screenshot 2024-11-04 224646](https://github.com/user-attachments/assets/b8184400-b6aa-4f30-85fc-c1cb3c94bfbf)
 
 ### Findings and Recommendations
-- Basic is the most popular subscription type 
-- Premium and Standard subscription types are only known in the South and West Regions respectively, while Basic is known in two regions (East and North).
-- Less than 50% canceled their Basic subscriptions, while more than 50% canceled their Premium and Standard subscriptions, could it be that Premium and Standard does not meet customers satisfaction expectations?
+- Basic is the most popular subscription type. 
+- Premium and Standard subscription types are only popular in the South and West Regions respectively, while Basic is popular in two regions (East and North).
+- Less than 50% canceled their Basic subscriptions, while more than 50% canceled their Premium and Standard subscriptions, could it be that Premium and Standard does not meet customer's expectation/satisfaction?
 - East generates highest revenue.
 
-- The company should create a means of getting feedback from the customers, to know the actual reasons for their high cancelations, especially for Premium and Standard subscription types.
+- The company should create a means of getting feedback from the customers, to know the actual reason(s) for their high cancelations, especially for Premium and Standard subscription types.
 - Basic subscription type should be introduced/extended to South and West regions, since it has less cancelations and generates more revenue in the East.
