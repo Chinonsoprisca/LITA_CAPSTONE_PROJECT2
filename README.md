@@ -18,6 +18,8 @@ Customer Subscription Service Segmentation
 
 [Data Visualization](#data-visualization)
 
+[Finding and Recommendation](#finding-and-recommendation)
+
 
 ### Project Overview
 ---
@@ -132,7 +134,7 @@ ORDER BY 2 DESC
 
 ![Screenshot 2024-11-04 224646](https://github.com/user-attachments/assets/b8184400-b6aa-4f30-85fc-c1cb3c94bfbf)
 
-### Findings and Recommendations
+### Finding and Recommendation
 - Basic is the most popular subscription type. 
 - Premium and Standard subscription types are only popular in the South and West Regions respectively, while Basic is popular in two regions (East and North).
 - Less than 50% canceled their Basic subscriptions, while more than 50% canceled their Premium and Standard subscriptions, could it be that Premium and Standard does not meet customer's expectation/satisfaction?
