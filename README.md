@@ -53,7 +53,6 @@ The data used is Lita_Capstone_Dataset (CustomerData), which was shared by Ladie
 
 ### Exploratory Data Analysis
 ---
-_Excel_
 - Find subscription patterns
 - What is the average subscription duration 
 - Identify most popular subscription types
